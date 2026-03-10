@@ -39,7 +39,6 @@ This repository contains the complete source code, sample data, and checkpoints 
 
 ## Analysis
 - Nuclear Norm: `python analysis/calculate_nuclear_norm.py --checkpoint checkpoints/smart_on_best.pt`
-- SVD/Efficiency:
 
 ## Checkpoints
 - `checkpoints/smart_on_best.pt`: Best Smart ON model (val loss 1.013).
